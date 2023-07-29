@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @PyXen**
+**© @THE_THIRD_EYE_NETWORK**
 """
 
 spam_msg = f"""
